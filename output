@@ -1,0 +1,808 @@
+[start]
+[1]select schema_name from information_schema.schemata where 1
+   select schema_name from information_schema.schemata where 1
+
+[start]
+select[1]schema_name from information_schema.schemata where 1
+select   schema_name from information_schema.schemata where 1
+select  +schema_name from information_schema.schemata where 1
+select + schema_name from information_schema.schemata where 1
+select ++schema_name from information_schema.schemata where 1
+select+  schema_name from information_schema.schemata where 1
+select+ +schema_name from information_schema.schemata where 1
+select++ schema_name from information_schema.schemata where 1
+select+++schema_name from information_schema.schemata where 1
+select``.schema_name from information_schema.schemata where 1
+
+[start]
+select schema_name[1]from information_schema.schemata where 1
+select schema_name   from information_schema.schemata where 1
+select schema_name ""from information_schema.schemata where 1
+select schema_name $ from information_schema.schemata where 1
+select schema_name ''from information_schema.schemata where 1
+select schema_name A from information_schema.schemata where 1
+select schema_name _ from information_schema.schemata where 1
+select schema_name ``from information_schema.schemata where 1
+select schema_name a from information_schema.schemata where 1
+select schema_name N from information_schema.schemata where 1
+select schema_name e from information_schema.schemata where 1
+select schema_name" "from information_schema.schemata where 1
+select schema_name"!"from information_schema.schemata where 1
+select schema_name"" from information_schema.schemata where 1
+select schema_name"$"from information_schema.schemata where 1
+select schema_name"%"from information_schema.schemata where 1
+select schema_name"&"from information_schema.schemata where 1
+select schema_name"'"from information_schema.schemata where 1
+select schema_name"("from information_schema.schemata where 1
+select schema_name")"from information_schema.schemata where 1
+select schema_name"*"from information_schema.schemata where 1
+select schema_name"+"from information_schema.schemata where 1
+select schema_name","from information_schema.schemata where 1
+select schema_name"-"from information_schema.schemata where 1
+select schema_name"."from information_schema.schemata where 1
+select schema_name"/"from information_schema.schemata where 1
+select schema_name"0"from information_schema.schemata where 1
+select schema_name":"from information_schema.schemata where 1
+select schema_name"<"from information_schema.schemata where 1
+select schema_name"="from information_schema.schemata where 1
+select schema_name">"from information_schema.schemata where 1
+select schema_name"?"from information_schema.schemata where 1
+select schema_name"@"from information_schema.schemata where 1
+select schema_name"A"from information_schema.schemata where 1
+select schema_name"["from information_schema.schemata where 1
+select schema_name"]"from information_schema.schemata where 1
+select schema_name"^"from information_schema.schemata where 1
+select schema_name"_"from information_schema.schemata where 1
+select schema_name"`"from information_schema.schemata where 1
+select schema_name"a"from information_schema.schemata where 1
+select schema_name"{"from information_schema.schemata where 1
+select schema_name"|"from information_schema.schemata where 1
+select schema_name"}"from information_schema.schemata where 1
+select schema_name"~"from information_schema.schemata where 1
+select schema_name""from information_schema.schemata where 1
+select schema_name":"from information_schema.schemata where 1
+select schema_name"N"from information_schema.schemata where 1
+select schema_name"e"from information_schema.schemata where 1
+select schema_name' 'from information_schema.schemata where 1
+select schema_name'!'from information_schema.schemata where 1
+select schema_name'"'from information_schema.schemata where 1
+select schema_name'$'from information_schema.schemata where 1
+select schema_name'%'from information_schema.schemata where 1
+select schema_name'&'from information_schema.schemata where 1
+select schema_name'' from information_schema.schemata where 1
+select schema_name'('from information_schema.schemata where 1
+select schema_name')'from information_schema.schemata where 1
+select schema_name'*'from information_schema.schemata where 1
+select schema_name'+'from information_schema.schemata where 1
+select schema_name','from information_schema.schemata where 1
+select schema_name'-'from information_schema.schemata where 1
+select schema_name'.'from information_schema.schemata where 1
+select schema_name'/'from information_schema.schemata where 1
+select schema_name'0'from information_schema.schemata where 1
+select schema_name':'from information_schema.schemata where 1
+select schema_name'<'from information_schema.schemata where 1
+select schema_name'='from information_schema.schemata where 1
+select schema_name'>'from information_schema.schemata where 1
+select schema_name'?'from information_schema.schemata where 1
+select schema_name'@'from information_schema.schemata where 1
+select schema_name'A'from information_schema.schemata where 1
+select schema_name'['from information_schema.schemata where 1
+select schema_name']'from information_schema.schemata where 1
+select schema_name'^'from information_schema.schemata where 1
+select schema_name'_'from information_schema.schemata where 1
+select schema_name'`'from information_schema.schemata where 1
+select schema_name'a'from information_schema.schemata where 1
+select schema_name'{'from information_schema.schemata where 1
+select schema_name'|'from information_schema.schemata where 1
+select schema_name'}'from information_schema.schemata where 1
+select schema_name'~'from information_schema.schemata where 1
+select schema_name''from information_schema.schemata where 1
+select schema_name':'from information_schema.schemata where 1
+select schema_name'N'from information_schema.schemata where 1
+select schema_name'e'from information_schema.schemata where 1
+select schema_name,""from information_schema.schemata where 1
+select schema_name,''from information_schema.schemata where 1
+select schema_name,.0from information_schema.schemata where 1
+select schema_name,0 from information_schema.schemata where 1
+select schema_name,0.from information_schema.schemata where 1
+select schema_name,@ from information_schema.schemata where 1
+select schema_name,\Nfrom information_schema.schemata where 1
+select schema_name` `from information_schema.schemata where 1
+select schema_name`!`from information_schema.schemata where 1
+select schema_name`"`from information_schema.schemata where 1
+select schema_name`$`from information_schema.schemata where 1
+select schema_name`%`from information_schema.schemata where 1
+select schema_name`&`from information_schema.schemata where 1
+select schema_name`'`from information_schema.schemata where 1
+select schema_name`(`from information_schema.schemata where 1
+select schema_name`)`from information_schema.schemata where 1
+select schema_name`*`from information_schema.schemata where 1
+select schema_name`+`from information_schema.schemata where 1
+select schema_name`,`from information_schema.schemata where 1
+select schema_name`-`from information_schema.schemata where 1
+select schema_name`.`from information_schema.schemata where 1
+select schema_name`/`from information_schema.schemata where 1
+select schema_name`0`from information_schema.schemata where 1
+select schema_name`:`from information_schema.schemata where 1
+select schema_name`<`from information_schema.schemata where 1
+select schema_name`=`from information_schema.schemata where 1
+select schema_name`>`from information_schema.schemata where 1
+select schema_name`?`from information_schema.schemata where 1
+select schema_name`@`from information_schema.schemata where 1
+select schema_name`A`from information_schema.schemata where 1
+select schema_name`[`from information_schema.schemata where 1
+select schema_name`\`from information_schema.schemata where 1
+select schema_name`]`from information_schema.schemata where 1
+select schema_name`^`from information_schema.schemata where 1
+select schema_name`_`from information_schema.schemata where 1
+select schema_name`` from information_schema.schemata where 1
+select schema_name`a`from information_schema.schemata where 1
+select schema_name`{`from information_schema.schemata where 1
+select schema_name`|`from information_schema.schemata where 1
+select schema_name`}`from information_schema.schemata where 1
+select schema_name`~`from information_schema.schemata where 1
+select schema_name``from information_schema.schemata where 1
+select schema_name`:`from information_schema.schemata where 1
+select schema_name`N`from information_schema.schemata where 1
+select schema_name`e`from information_schema.schemata where 1
+
+[start]
+select schema_name from[1]information_schema.schemata where 1
+select schema_name from   information_schema.schemata where 1
+
+[start]
+select schema_name from information_schema.schemata[1]where 1
+select schema_name from information_schema.schemata   where 1
+select schema_name from information_schema.schemata $ where 1
+select schema_name from information_schema.schemata A where 1
+select schema_name from information_schema.schemata _ where 1
+select schema_name from information_schema.schemata ``where 1
+select schema_name from information_schema.schemata a where 1
+select schema_name from information_schema.schemata N where 1
+select schema_name from information_schema.schemata e where 1
+select schema_name from information_schema.schemata-- where 1
+select schema_name from information_schema.schemata--where 1
+select schema_name from information_schema.schemata=$ where 1
+select schema_name from information_schema.schemata=A where 1
+select schema_name from information_schema.schemata=_ where 1
+select schema_name from information_schema.schemata=``where 1
+select schema_name from information_schema.schemata=a where 1
+select schema_name from information_schema.schemata=N where 1
+select schema_name from information_schema.schemata=e where 1
+select schema_name from information_schema.schemata` `where 1
+select schema_name from information_schema.schemata`!`where 1
+select schema_name from information_schema.schemata`"`where 1
+select schema_name from information_schema.schemata`$`where 1
+select schema_name from information_schema.schemata`%`where 1
+select schema_name from information_schema.schemata`&`where 1
+select schema_name from information_schema.schemata`'`where 1
+select schema_name from information_schema.schemata`(`where 1
+select schema_name from information_schema.schemata`)`where 1
+select schema_name from information_schema.schemata`*`where 1
+select schema_name from information_schema.schemata`+`where 1
+select schema_name from information_schema.schemata`,`where 1
+select schema_name from information_schema.schemata`-`where 1
+select schema_name from information_schema.schemata`.`where 1
+select schema_name from information_schema.schemata`/`where 1
+select schema_name from information_schema.schemata`0`where 1
+select schema_name from information_schema.schemata`:`where 1
+select schema_name from information_schema.schemata`<`where 1
+select schema_name from information_schema.schemata`=`where 1
+select schema_name from information_schema.schemata`>`where 1
+select schema_name from information_schema.schemata`?`where 1
+select schema_name from information_schema.schemata`@`where 1
+select schema_name from information_schema.schemata`A`where 1
+select schema_name from information_schema.schemata`[`where 1
+select schema_name from information_schema.schemata`\`where 1
+select schema_name from information_schema.schemata`]`where 1
+select schema_name from information_schema.schemata`^`where 1
+select schema_name from information_schema.schemata`_`where 1
+select schema_name from information_schema.schemata`` where 1
+select schema_name from information_schema.schemata`a`where 1
+select schema_name from information_schema.schemata`{`where 1
+select schema_name from information_schema.schemata`|`where 1
+select schema_name from information_schema.schemata`}`where 1
+select schema_name from information_schema.schemata`~`where 1
+select schema_name from information_schema.schemata``where 1
+select schema_name from information_schema.schemata`:`where 1
+select schema_name from information_schema.schemata`N`where 1
+select schema_name from information_schema.schemata`e`where 1
+
+
+[start]
+select schema_name from information_schema.schemata where[1]1
+select schema_name from information_schema.schemata where   1
+select schema_name from information_schema.schemata where  +1
+select schema_name from information_schema.schemata where  -1
+select schema_name from information_schema.schemata where  01
+select schema_name from information_schema.schemata where  ~1
+select schema_name from information_schema.schemata where + 1
+select schema_name from information_schema.schemata where ++1
+select schema_name from information_schema.schemata where +-1
+select schema_name from information_schema.schemata where +01
+select schema_name from information_schema.schemata where +~1
+select schema_name from information_schema.schemata where - 1
+select schema_name from information_schema.schemata where -+1
+select schema_name from information_schema.schemata where --1
+select schema_name from information_schema.schemata where -01
+select schema_name from information_schema.schemata where -~1
+select schema_name from information_schema.schemata where 0+1
+select schema_name from information_schema.schemata where 0-1
+select schema_name from information_schema.schemata where 001
+select schema_name from information_schema.schemata where 0<1
+select schema_name from information_schema.schemata where 0^1
+select schema_name from information_schema.schemata where 0|1
+select schema_name from information_schema.schemata where ~ 1
+select schema_name from information_schema.schemata where ~!1
+select schema_name from information_schema.schemata where ~+1
+select schema_name from information_schema.schemata where ~.1
+select schema_name from information_schema.schemata where ~01
+select schema_name from information_schema.schemata where ~~1
+select schema_name from information_schema.schemata where! !1
+select schema_name from information_schema.schemata where!!!1
+select schema_name from information_schema.schemata where!+!1
+select schema_name from information_schema.schemata where!-!1
+select schema_name from information_schema.schemata where!0&1
+select schema_name from information_schema.schemata where!0*1
+select schema_name from information_schema.schemata where!0+1
+select schema_name from information_schema.schemata where!0/1
+select schema_name from information_schema.schemata where!0=1
+select schema_name from information_schema.schemata where!0|1
+select schema_name from information_schema.schemata where!0e1
+select schema_name from information_schema.schemata where!<!1
+select schema_name from information_schema.schemata where!>!1
+select schema_name from information_schema.schemata where!~-1
+select schema_name from information_schema.schemata where""+1
+select schema_name from information_schema.schemata where""-1
+select schema_name from information_schema.schemata where""<1
+select schema_name from information_schema.schemata where""^1
+select schema_name from information_schema.schemata where""|1
+select schema_name from information_schema.schemata where$$$1
+select schema_name from information_schema.schemata where$$01
+select schema_name from information_schema.schemata where$$A1
+select schema_name from information_schema.schemata where$$_1
+select schema_name from information_schema.schemata where$$a1
+select schema_name from information_schema.schemata where$$N1
+select schema_name from information_schema.schemata where$$e1
+select schema_name from information_schema.schemata where$0$1
+select schema_name from information_schema.schemata where$001
+select schema_name from information_schema.schemata where$0A1
+select schema_name from information_schema.schemata where$0_1
+select schema_name from information_schema.schemata where$0a1
+select schema_name from information_schema.schemata where$0N1
+select schema_name from information_schema.schemata where$0e1
+select schema_name from information_schema.schemata where$A$1
+select schema_name from information_schema.schemata where$A01
+select schema_name from information_schema.schemata where$AA1
+select schema_name from information_schema.schemata where$A_1
+select schema_name from information_schema.schemata where$Aa1
+select schema_name from information_schema.schemata where$AN1
+select schema_name from information_schema.schemata where$Ae1
+select schema_name from information_schema.schemata where$_$1
+select schema_name from information_schema.schemata where$_01
+select schema_name from information_schema.schemata where$_A1
+select schema_name from information_schema.schemata where$__1
+select schema_name from information_schema.schemata where$_a1
+select schema_name from information_schema.schemata where$_N1
+select schema_name from information_schema.schemata where$_e1
+select schema_name from information_schema.schemata where$a$1
+select schema_name from information_schema.schemata where$a01
+select schema_name from information_schema.schemata where$aA1
+select schema_name from information_schema.schemata where$a_1
+select schema_name from information_schema.schemata where$aa1
+select schema_name from information_schema.schemata where$aN1
+select schema_name from information_schema.schemata where$ae1
+select schema_name from information_schema.schemata where$N$1
+select schema_name from information_schema.schemata where$N01
+select schema_name from information_schema.schemata where$NA1
+select schema_name from information_schema.schemata where$N_1
+select schema_name from information_schema.schemata where$Na1
+select schema_name from information_schema.schemata where$NN1
+select schema_name from information_schema.schemata where$Ne1
+select schema_name from information_schema.schemata where$e$1
+select schema_name from information_schema.schemata where$e01
+select schema_name from information_schema.schemata where$eA1
+select schema_name from information_schema.schemata where$e_1
+select schema_name from information_schema.schemata where$ea1
+select schema_name from information_schema.schemata where$eN1
+select schema_name from information_schema.schemata where$ee1
+select schema_name from information_schema.schemata where''+1
+select schema_name from information_schema.schemata where''-1
+select schema_name from information_schema.schemata where''<1
+select schema_name from information_schema.schemata where''^1
+select schema_name from information_schema.schemata where''|1
+select schema_name from information_schema.schemata where+  1
+select schema_name from information_schema.schemata where+ +1
+select schema_name from information_schema.schemata where+ -1
+select schema_name from information_schema.schemata where+ 01
+select schema_name from information_schema.schemata where+ ~1
+select schema_name from information_schema.schemata where++ 1
+select schema_name from information_schema.schemata where+++1
+select schema_name from information_schema.schemata where++-1
+select schema_name from information_schema.schemata where++01
+select schema_name from information_schema.schemata where++~1
+select schema_name from information_schema.schemata where+- 1
+select schema_name from information_schema.schemata where+-+1
+select schema_name from information_schema.schemata where+--1
+select schema_name from information_schema.schemata where+-01
+select schema_name from information_schema.schemata where+-~1
+select schema_name from information_schema.schemata where+0+1
+select schema_name from information_schema.schemata where+0-1
+select schema_name from information_schema.schemata where+001
+select schema_name from information_schema.schemata where+0<1
+select schema_name from information_schema.schemata where+0^1
+select schema_name from information_schema.schemata where+0|1
+select schema_name from information_schema.schemata where+~ 1
+select schema_name from information_schema.schemata where+~!1
+select schema_name from information_schema.schemata where+~+1
+select schema_name from information_schema.schemata where+~.1
+select schema_name from information_schema.schemata where+~01
+select schema_name from information_schema.schemata where+~~1
+select schema_name from information_schema.schemata where-  1
+select schema_name from information_schema.schemata where- +1
+select schema_name from information_schema.schemata where- -1
+select schema_name from information_schema.schemata where- 01
+select schema_name from information_schema.schemata where- ~1
+select schema_name from information_schema.schemata where-+ 1
+select schema_name from information_schema.schemata where-++1
+select schema_name from information_schema.schemata where-+-1
+select schema_name from information_schema.schemata where-+01
+select schema_name from information_schema.schemata where-+~1
+select schema_name from information_schema.schemata where--+1
+select schema_name from information_schema.schemata where---1
+select schema_name from information_schema.schemata where--01
+select schema_name from information_schema.schemata where--~1
+select schema_name from information_schema.schemata where-0+1
+select schema_name from information_schema.schemata where-0-1
+select schema_name from information_schema.schemata where-001
+select schema_name from information_schema.schemata where-0<1
+select schema_name from information_schema.schemata where-0^1
+select schema_name from information_schema.schemata where-0|1
+select schema_name from information_schema.schemata where-~ 1
+select schema_name from information_schema.schemata where-~!1
+select schema_name from information_schema.schemata where-~+1
+select schema_name from information_schema.schemata where-~.1
+select schema_name from information_schema.schemata where-~01
+select schema_name from information_schema.schemata where-~~1
+select schema_name from information_schema.schemata where0$$1
+select schema_name from information_schema.schemata where0$01
+select schema_name from information_schema.schemata where0$A1
+select schema_name from information_schema.schemata where0$_1
+select schema_name from information_schema.schemata where0$a1
+select schema_name from information_schema.schemata where0$N1
+select schema_name from information_schema.schemata where0$e1
+select schema_name from information_schema.schemata where00$1
+select schema_name from information_schema.schemata where0001
+select schema_name from information_schema.schemata where00A1
+select schema_name from information_schema.schemata where00_1
+select schema_name from information_schema.schemata where00a1
+select schema_name from information_schema.schemata where00N1
+select schema_name from information_schema.schemata where00e1
+select schema_name from information_schema.schemata where0A$1
+select schema_name from information_schema.schemata where0A01
+select schema_name from information_schema.schemata where0AA1
+select schema_name from information_schema.schemata where0A_1
+select schema_name from information_schema.schemata where0Aa1
+select schema_name from information_schema.schemata where0AN1
+select schema_name from information_schema.schemata where0Ae1
+select schema_name from information_schema.schemata where0_$1
+select schema_name from information_schema.schemata where0_01
+select schema_name from information_schema.schemata where0_A1
+select schema_name from information_schema.schemata where0__1
+select schema_name from information_schema.schemata where0_a1
+select schema_name from information_schema.schemata where0_N1
+select schema_name from information_schema.schemata where0_e1
+select schema_name from information_schema.schemata where0a$1
+select schema_name from information_schema.schemata where0a01
+select schema_name from information_schema.schemata where0aA1
+select schema_name from information_schema.schemata where0a_1
+select schema_name from information_schema.schemata where0aa1
+select schema_name from information_schema.schemata where0aN1
+select schema_name from information_schema.schemata where0ae1
+select schema_name from information_schema.schemata where0N$1
+select schema_name from information_schema.schemata where0N01
+select schema_name from information_schema.schemata where0NA1
+select schema_name from information_schema.schemata where0N_1
+select schema_name from information_schema.schemata where0Na1
+select schema_name from information_schema.schemata where0NN1
+select schema_name from information_schema.schemata where0Ne1
+select schema_name from information_schema.schemata where0e$1
+select schema_name from information_schema.schemata where0e01
+select schema_name from information_schema.schemata where0eA1
+select schema_name from information_schema.schemata where0e_1
+select schema_name from information_schema.schemata where0ea1
+select schema_name from information_schema.schemata where0eN1
+select schema_name from information_schema.schemata where0ee1
+select schema_name from information_schema.schemata where@||1
+select schema_name from information_schema.schemata whereA$$1
+select schema_name from information_schema.schemata whereA$01
+select schema_name from information_schema.schemata whereA$A1
+select schema_name from information_schema.schemata whereA$_1
+select schema_name from information_schema.schemata whereA$a1
+select schema_name from information_schema.schemata whereA$N1
+select schema_name from information_schema.schemata whereA$e1
+select schema_name from information_schema.schemata whereA0$1
+select schema_name from information_schema.schemata whereA001
+select schema_name from information_schema.schemata whereA0A1
+select schema_name from information_schema.schemata whereA0_1
+select schema_name from information_schema.schemata whereA0a1
+select schema_name from information_schema.schemata whereA0N1
+select schema_name from information_schema.schemata whereA0e1
+select schema_name from information_schema.schemata whereAA$1
+select schema_name from information_schema.schemata whereAA01
+select schema_name from information_schema.schemata whereAAA1
+select schema_name from information_schema.schemata whereAA_1
+select schema_name from information_schema.schemata whereAAa1
+select schema_name from information_schema.schemata whereAAN1
+select schema_name from information_schema.schemata whereAAe1
+select schema_name from information_schema.schemata whereA_$1
+select schema_name from information_schema.schemata whereA_01
+select schema_name from information_schema.schemata whereA_A1
+select schema_name from information_schema.schemata whereA__1
+select schema_name from information_schema.schemata whereA_a1
+select schema_name from information_schema.schemata whereA_N1
+select schema_name from information_schema.schemata whereA_e1
+select schema_name from information_schema.schemata whereAa$1
+select schema_name from information_schema.schemata whereAa01
+select schema_name from information_schema.schemata whereAaA1
+select schema_name from information_schema.schemata whereAa_1
+select schema_name from information_schema.schemata whereAaa1
+select schema_name from information_schema.schemata whereAaN1
+select schema_name from information_schema.schemata whereAae1
+select schema_name from information_schema.schemata whereAN$1
+select schema_name from information_schema.schemata whereAN01
+select schema_name from information_schema.schemata whereANA1
+select schema_name from information_schema.schemata whereAN_1
+select schema_name from information_schema.schemata whereANa1
+select schema_name from information_schema.schemata whereANN1
+select schema_name from information_schema.schemata whereANe1
+select schema_name from information_schema.schemata whereAe$1
+select schema_name from information_schema.schemata whereAe01
+select schema_name from information_schema.schemata whereAeA1
+select schema_name from information_schema.schemata whereAe_1
+select schema_name from information_schema.schemata whereAea1
+select schema_name from information_schema.schemata whereAeN1
+select schema_name from information_schema.schemata whereAee1
+select schema_name from information_schema.schemata where_$$1
+select schema_name from information_schema.schemata where_$01
+select schema_name from information_schema.schemata where_$A1
+select schema_name from information_schema.schemata where_$_1
+select schema_name from information_schema.schemata where_$a1
+select schema_name from information_schema.schemata where_$N1
+select schema_name from information_schema.schemata where_$e1
+select schema_name from information_schema.schemata where_0$1
+select schema_name from information_schema.schemata where_001
+select schema_name from information_schema.schemata where_0A1
+select schema_name from information_schema.schemata where_0_1
+select schema_name from information_schema.schemata where_0a1
+select schema_name from information_schema.schemata where_0N1
+select schema_name from information_schema.schemata where_0e1
+select schema_name from information_schema.schemata where_A$1
+select schema_name from information_schema.schemata where_A01
+select schema_name from information_schema.schemata where_AA1
+select schema_name from information_schema.schemata where_A_1
+select schema_name from information_schema.schemata where_Aa1
+select schema_name from information_schema.schemata where_AN1
+select schema_name from information_schema.schemata where_Ae1
+select schema_name from information_schema.schemata where__$1
+select schema_name from information_schema.schemata where__01
+select schema_name from information_schema.schemata where__A1
+select schema_name from information_schema.schemata where___1
+select schema_name from information_schema.schemata where__a1
+select schema_name from information_schema.schemata where__N1
+select schema_name from information_schema.schemata where__e1
+select schema_name from information_schema.schemata where_a$1
+select schema_name from information_schema.schemata where_a01
+select schema_name from information_schema.schemata where_aA1
+select schema_name from information_schema.schemata where_a_1
+select schema_name from information_schema.schemata where_aa1
+select schema_name from information_schema.schemata where_aN1
+select schema_name from information_schema.schemata where_ae1
+select schema_name from information_schema.schemata where_N$1
+select schema_name from information_schema.schemata where_N01
+select schema_name from information_schema.schemata where_NA1
+select schema_name from information_schema.schemata where_N_1
+select schema_name from information_schema.schemata where_Na1
+select schema_name from information_schema.schemata where_NN1
+select schema_name from information_schema.schemata where_Ne1
+select schema_name from information_schema.schemata where_e$1
+select schema_name from information_schema.schemata where_e01
+select schema_name from information_schema.schemata where_eA1
+select schema_name from information_schema.schemata where_e_1
+select schema_name from information_schema.schemata where_ea1
+select schema_name from information_schema.schemata where_eN1
+select schema_name from information_schema.schemata where_ee1
+select schema_name from information_schema.schemata wherea$$1
+select schema_name from information_schema.schemata wherea$01
+select schema_name from information_schema.schemata wherea$A1
+select schema_name from information_schema.schemata wherea$_1
+select schema_name from information_schema.schemata wherea$a1
+select schema_name from information_schema.schemata wherea$N1
+select schema_name from information_schema.schemata wherea$e1
+select schema_name from information_schema.schemata wherea0$1
+select schema_name from information_schema.schemata wherea001
+select schema_name from information_schema.schemata wherea0A1
+select schema_name from information_schema.schemata wherea0_1
+select schema_name from information_schema.schemata wherea0a1
+select schema_name from information_schema.schemata wherea0N1
+select schema_name from information_schema.schemata wherea0e1
+select schema_name from information_schema.schemata whereaA$1
+select schema_name from information_schema.schemata whereaA01
+select schema_name from information_schema.schemata whereaAA1
+select schema_name from information_schema.schemata whereaA_1
+select schema_name from information_schema.schemata whereaAa1
+select schema_name from information_schema.schemata whereaAN1
+select schema_name from information_schema.schemata whereaAe1
+select schema_name from information_schema.schemata wherea_$1
+select schema_name from information_schema.schemata wherea_01
+select schema_name from information_schema.schemata wherea_A1
+select schema_name from information_schema.schemata wherea__1
+select schema_name from information_schema.schemata wherea_a1
+select schema_name from information_schema.schemata wherea_N1
+select schema_name from information_schema.schemata wherea_e1
+select schema_name from information_schema.schemata whereaa$1
+select schema_name from information_schema.schemata whereaa01
+select schema_name from information_schema.schemata whereaaA1
+select schema_name from information_schema.schemata whereaa_1
+select schema_name from information_schema.schemata whereaaa1
+select schema_name from information_schema.schemata whereaaN1
+select schema_name from information_schema.schemata whereaae1
+select schema_name from information_schema.schemata whereaN$1
+select schema_name from information_schema.schemata whereaN01
+select schema_name from information_schema.schemata whereaNA1
+select schema_name from information_schema.schemata whereaN_1
+select schema_name from information_schema.schemata whereaNa1
+select schema_name from information_schema.schemata whereaNN1
+select schema_name from information_schema.schemata whereaNe1
+select schema_name from information_schema.schemata whereae$1
+select schema_name from information_schema.schemata whereae01
+select schema_name from information_schema.schemata whereaeA1
+select schema_name from information_schema.schemata whereae_1
+select schema_name from information_schema.schemata whereaea1
+select schema_name from information_schema.schemata whereaeN1
+select schema_name from information_schema.schemata whereaee1
+select schema_name from information_schema.schemata where~  1
+select schema_name from information_schema.schemata where~ !1
+select schema_name from information_schema.schemata where~ +1
+select schema_name from information_schema.schemata where~ .1
+select schema_name from information_schema.schemata where~ 01
+select schema_name from information_schema.schemata where~ ~1
+select schema_name from information_schema.schemata where~! 1
+select schema_name from information_schema.schemata where~!!1
+select schema_name from information_schema.schemata where~!+1
+select schema_name from information_schema.schemata where~!-1
+select schema_name from information_schema.schemata where~!.1
+select schema_name from information_schema.schemata where~!01
+select schema_name from information_schema.schemata where~!<1
+select schema_name from information_schema.schemata where~!>1
+select schema_name from information_schema.schemata where~!~1
+select schema_name from information_schema.schemata where~+ 1
+select schema_name from information_schema.schemata where~+!1
+select schema_name from information_schema.schemata where~++1
+select schema_name from information_schema.schemata where~+.1
+select schema_name from information_schema.schemata where~+01
+select schema_name from information_schema.schemata where~+~1
+select schema_name from information_schema.schemata where~-!1
+select schema_name from information_schema.schemata where~--1
+select schema_name from information_schema.schemata where~-.1
+select schema_name from information_schema.schemata where~-~1
+select schema_name from information_schema.schemata where~.01
+select schema_name from information_schema.schemata where~0&1
+select schema_name from information_schema.schemata where~0*1
+select schema_name from information_schema.schemata where~0-1
+select schema_name from information_schema.schemata where~0.1
+select schema_name from information_schema.schemata where~0/1
+select schema_name from information_schema.schemata where~001
+select schema_name from information_schema.schemata where~0>1
+select schema_name from information_schema.schemata where~0^1
+select schema_name from information_schema.schemata where~0|1
+select schema_name from information_schema.schemata where~0e1
+select schema_name from information_schema.schemata where~~ 1
+select schema_name from information_schema.schemata where~~+1
+select schema_name from information_schema.schemata where~~-1
+select schema_name from information_schema.schemata where~~01
+select schema_name from information_schema.schemata where~~~1
+select schema_name from information_schema.schemata whereN$$1
+select schema_name from information_schema.schemata whereN$01
+select schema_name from information_schema.schemata whereN$A1
+select schema_name from information_schema.schemata whereN$_1
+select schema_name from information_schema.schemata whereN$a1
+select schema_name from information_schema.schemata whereN$N1
+select schema_name from information_schema.schemata whereN$e1
+select schema_name from information_schema.schemata whereN0$1
+select schema_name from information_schema.schemata whereN001
+select schema_name from information_schema.schemata whereN0A1
+select schema_name from information_schema.schemata whereN0_1
+select schema_name from information_schema.schemata whereN0a1
+select schema_name from information_schema.schemata whereN0N1
+select schema_name from information_schema.schemata whereN0e1
+select schema_name from information_schema.schemata whereNA$1
+select schema_name from information_schema.schemata whereNA01
+select schema_name from information_schema.schemata whereNAA1
+select schema_name from information_schema.schemata whereNA_1
+select schema_name from information_schema.schemata whereNAa1
+select schema_name from information_schema.schemata whereNAN1
+select schema_name from information_schema.schemata whereNAe1
+select schema_name from information_schema.schemata whereN_$1
+select schema_name from information_schema.schemata whereN_01
+select schema_name from information_schema.schemata whereN_A1
+select schema_name from information_schema.schemata whereN__1
+select schema_name from information_schema.schemata whereN_a1
+select schema_name from information_schema.schemata whereN_N1
+select schema_name from information_schema.schemata whereN_e1
+select schema_name from information_schema.schemata whereNa$1
+select schema_name from information_schema.schemata whereNa01
+select schema_name from information_schema.schemata whereNaA1
+select schema_name from information_schema.schemata whereNa_1
+select schema_name from information_schema.schemata whereNaa1
+select schema_name from information_schema.schemata whereNaN1
+select schema_name from information_schema.schemata whereNae1
+select schema_name from information_schema.schemata whereNN$1
+select schema_name from information_schema.schemata whereNN01
+select schema_name from information_schema.schemata whereNNA1
+select schema_name from information_schema.schemata whereNN_1
+select schema_name from information_schema.schemata whereNNa1
+select schema_name from information_schema.schemata whereNNN1
+select schema_name from information_schema.schemata whereNNe1
+select schema_name from information_schema.schemata whereNe$1
+select schema_name from information_schema.schemata whereNe01
+select schema_name from information_schema.schemata whereNeA1
+select schema_name from information_schema.schemata whereNe_1
+select schema_name from information_schema.schemata whereNea1
+select schema_name from information_schema.schemata whereNeN1
+select schema_name from information_schema.schemata whereNee1
+select schema_name from information_schema.schemata wheree$$1
+select schema_name from information_schema.schemata wheree$01
+select schema_name from information_schema.schemata wheree$A1
+select schema_name from information_schema.schemata wheree$_1
+select schema_name from information_schema.schemata wheree$a1
+select schema_name from information_schema.schemata wheree$N1
+select schema_name from information_schema.schemata wheree$e1
+select schema_name from information_schema.schemata wheree0$1
+select schema_name from information_schema.schemata wheree001
+select schema_name from information_schema.schemata wheree0A1
+select schema_name from information_schema.schemata wheree0_1
+select schema_name from information_schema.schemata wheree0a1
+select schema_name from information_schema.schemata wheree0N1
+select schema_name from information_schema.schemata wheree0e1
+select schema_name from information_schema.schemata whereeA$1
+select schema_name from information_schema.schemata whereeA01
+select schema_name from information_schema.schemata whereeAA1
+select schema_name from information_schema.schemata whereeA_1
+select schema_name from information_schema.schemata whereeAa1
+select schema_name from information_schema.schemata whereeAN1
+select schema_name from information_schema.schemata whereeAe1
+select schema_name from information_schema.schemata wheree_$1
+select schema_name from information_schema.schemata wheree_01
+select schema_name from information_schema.schemata wheree_A1
+select schema_name from information_schema.schemata wheree__1
+select schema_name from information_schema.schemata wheree_a1
+select schema_name from information_schema.schemata wheree_N1
+select schema_name from information_schema.schemata wheree_e1
+select schema_name from information_schema.schemata whereea$1
+select schema_name from information_schema.schemata whereea01
+select schema_name from information_schema.schemata whereeaA1
+select schema_name from information_schema.schemata whereea_1
+select schema_name from information_schema.schemata whereeaa1
+select schema_name from information_schema.schemata whereeaN1
+select schema_name from information_schema.schemata whereeae1
+select schema_name from information_schema.schemata whereeN$1
+select schema_name from information_schema.schemata whereeN01
+select schema_name from information_schema.schemata whereeNA1
+select schema_name from information_schema.schemata whereeN_1
+select schema_name from information_schema.schemata whereeNa1
+select schema_name from information_schema.schemata whereeNN1
+select schema_name from information_schema.schemata whereeNe1
+select schema_name from information_schema.schemata whereee$1
+select schema_name from information_schema.schemata whereee01
+select schema_name from information_schema.schemata whereeeA1
+select schema_name from information_schema.schemata whereee_1
+select schema_name from information_schema.schemata whereeea1
+select schema_name from information_schema.schemata whereeeN1
+select schema_name from information_schema.schemata whereeee1
+
+[start]
+select schema_name from information_schema.schemata where[1]schema_name='information_schema'
+select schema_name from information_schema.schemata where   schema_name='information_schema'
+select schema_name from information_schema.schemata where  +schema_name='information_schema'
+select schema_name from information_schema.schemata where  -schema_name='information_schema'
+select schema_name from information_schema.schemata where !~schema_name='information_schema'
+select schema_name from information_schema.schemata where + schema_name='information_schema'
+select schema_name from information_schema.schemata where ++schema_name='information_schema'
+select schema_name from information_schema.schemata where +-schema_name='information_schema'
+select schema_name from information_schema.schemata where - schema_name='information_schema'
+select schema_name from information_schema.schemata where -+schema_name='information_schema'
+select schema_name from information_schema.schemata where --schema_name='information_schema'
+select schema_name from information_schema.schemata where 0&schema_name='information_schema'
+select schema_name from information_schema.schemata where 0*schema_name='information_schema'
+select schema_name from information_schema.schemata where 0+schema_name='information_schema'
+select schema_name from information_schema.schemata where 0-schema_name='information_schema'
+select schema_name from information_schema.schemata where 0<schema_name='information_schema'
+select schema_name from information_schema.schemata where 0>schema_name='information_schema'
+select schema_name from information_schema.schemata where 0^schema_name='information_schema'
+select schema_name from information_schema.schemata where 0|schema_name='information_schema'
+select schema_name from information_schema.schemata where ~~schema_name='information_schema'
+select schema_name from information_schema.schemata where! !schema_name='information_schema'
+select schema_name from information_schema.schemata where! ~schema_name='information_schema'
+select schema_name from information_schema.schemata where!!!schema_name='information_schema'
+select schema_name from information_schema.schemata where!!~schema_name='information_schema'
+select schema_name from information_schema.schemata where!+!schema_name='information_schema'
+select schema_name from information_schema.schemata where!+~schema_name='information_schema'
+select schema_name from information_schema.schemata where!-!schema_name='information_schema'
+select schema_name from information_schema.schemata where!0&schema_name='information_schema'
+select schema_name from information_schema.schemata where!0*schema_name='information_schema'
+select schema_name from information_schema.schemata where!0<schema_name='information_schema'
+select schema_name from information_schema.schemata where!0=schema_name='information_schema'
+select schema_name from information_schema.schemata where!<!schema_name='information_schema'
+select schema_name from information_schema.schemata where!<~schema_name='information_schema'
+select schema_name from information_schema.schemata where!>!schema_name='information_schema'
+select schema_name from information_schema.schemata where!>~schema_name='information_schema'
+select schema_name from information_schema.schemata where!~ schema_name='information_schema'
+select schema_name from information_schema.schemata where!~!schema_name='information_schema'
+select schema_name from information_schema.schemata where!~+schema_name='information_schema'
+select schema_name from information_schema.schemata where!~-schema_name='information_schema'
+select schema_name from information_schema.schemata where""&schema_name='information_schema'
+select schema_name from information_schema.schemata where""*schema_name='information_schema'
+select schema_name from information_schema.schemata where""+schema_name='information_schema'
+select schema_name from information_schema.schemata where""-schema_name='information_schema'
+select schema_name from information_schema.schemata where""=schema_name='information_schema'
+select schema_name from information_schema.schemata where"">schema_name='information_schema'
+select schema_name from information_schema.schemata where""^schema_name='information_schema'
+select schema_name from information_schema.schemata where""|schema_name='information_schema'
+select schema_name from information_schema.schemata where''&schema_name='information_schema'
+select schema_name from information_schema.schemata where''*schema_name='information_schema'
+select schema_name from information_schema.schemata where''+schema_name='information_schema'
+select schema_name from information_schema.schemata where''-schema_name='information_schema'
+select schema_name from information_schema.schemata where''=schema_name='information_schema'
+select schema_name from information_schema.schemata where''>schema_name='information_schema'
+select schema_name from information_schema.schemata where''^schema_name='information_schema'
+select schema_name from information_schema.schemata where''|schema_name='information_schema'
+select schema_name from information_schema.schemata where+  schema_name='information_schema'
+select schema_name from information_schema.schemata where+ +schema_name='information_schema'
+select schema_name from information_schema.schemata where+ -schema_name='information_schema'
+select schema_name from information_schema.schemata where+!~schema_name='information_schema'
+select schema_name from information_schema.schemata where++ schema_name='information_schema'
+select schema_name from information_schema.schemata where+++schema_name='information_schema'
+select schema_name from information_schema.schemata where++-schema_name='information_schema'
+select schema_name from information_schema.schemata where+- schema_name='information_schema'
+select schema_name from information_schema.schemata where+-+schema_name='information_schema'
+select schema_name from information_schema.schemata where+--schema_name='information_schema'
+select schema_name from information_schema.schemata where+0&schema_name='information_schema'
+select schema_name from information_schema.schemata where+0*schema_name='information_schema'
+select schema_name from information_schema.schemata where+0+schema_name='information_schema'
+select schema_name from information_schema.schemata where+0-schema_name='information_schema'
+select schema_name from information_schema.schemata where+0<schema_name='information_schema'
+select schema_name from information_schema.schemata where+0>schema_name='information_schema'
+select schema_name from information_schema.schemata where+0^schema_name='information_schema'
+select schema_name from information_schema.schemata where+0|schema_name='information_schema'
+select schema_name from information_schema.schemata where+~~schema_name='information_schema'
+select schema_name from information_schema.schemata where-  schema_name='information_schema'
+select schema_name from information_schema.schemata where- +schema_name='information_schema'
+select schema_name from information_schema.schemata where- -schema_name='information_schema'
+select schema_name from information_schema.schemata where-!~schema_name='information_schema'
+select schema_name from information_schema.schemata where-+ schema_name='information_schema'
+select schema_name from information_schema.schemata where-++schema_name='information_schema'
+select schema_name from information_schema.schemata where-+-schema_name='information_schema'
+select schema_name from information_schema.schemata where--+schema_name='information_schema'
+select schema_name from information_schema.schemata where---schema_name='information_schema'
+select schema_name from information_schema.schemata where-0&schema_name='information_schema'
+select schema_name from information_schema.schemata where-0*schema_name='information_schema'
+select schema_name from information_schema.schemata where-0+schema_name='information_schema'
+select schema_name from information_schema.schemata where-0-schema_name='information_schema'
+select schema_name from information_schema.schemata where-0<schema_name='information_schema'
+select schema_name from information_schema.schemata where-0>schema_name='information_schema'
+select schema_name from information_schema.schemata where-0^schema_name='information_schema'
+select schema_name from information_schema.schemata where-0|schema_name='information_schema'
+select schema_name from information_schema.schemata where-~~schema_name='information_schema'
+select schema_name from information_schema.schemata where@||schema_name='information_schema'
+select schema_name from information_schema.schemata where``.schema_name='information_schema'
+select schema_name from information_schema.schemata where~ ~schema_name='information_schema'
+select schema_name from information_schema.schemata where~+~schema_name='information_schema'
+select schema_name from information_schema.schemata where~-!schema_name='information_schema'
+select schema_name from information_schema.schemata where~0&schema_name='information_schema'
+select schema_name from information_schema.schemata where~0*schema_name='information_schema'
+select schema_name from information_schema.schemata where~0<schema_name='information_schema'
+select schema_name from information_schema.schemata where~0=schema_name='information_schema'
+select schema_name from information_schema.schemata where~~ schema_name='information_schema'
+select schema_name from information_schema.schemata where~~+schema_name='information_schema'
+select schema_name from information_schema.schemata where~~-schema_name='information_schema'
